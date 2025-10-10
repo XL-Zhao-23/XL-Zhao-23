@@ -5,5 +5,5 @@
 
 <!-- GitHub Stats -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=XL-Zhao-23&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=XL-Zhao-23&show_icons=true" alt="GitHub Stats" />
 </p>
