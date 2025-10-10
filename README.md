@@ -14,7 +14,7 @@
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="github-readme-stats.vercel.app/api/top-langs/?username=XL-Zhao-23" alt="Top Languages" />
+  <img src="github-readme-stats.vercel.app/api/top-langs/?username=XL-Zhao-23&layout=compact" alt="Top Languages" />
 </p>
 
 ---
