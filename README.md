@@ -1,7 +1,7 @@
 <!-- 头像和简介 -->
 
 <h1 align="left">Hi 👋, I'm XL Zhao</h1>
-<p align="left">Software Engineer | backend | AI | Open Source Contributor</p>
+<p align="left">Software Engineer | backend | AI | Open Source </p>
 
 <!-- GitHub Stats -->
 <p align="left">
