@@ -9,5 +9,6 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XL-Zhao-23&layout=compact&langs_count=8&cache_seconds=0" alt="Top Langs" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=XL-Zhao-23&theme=tokyo-night" alt="Contribution Graph" />
+
 </p>
