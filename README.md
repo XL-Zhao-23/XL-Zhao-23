@@ -5,11 +5,11 @@
 
 <!-- GitHub Stats -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=XL-Zhao-23&show_icons=true&cache_seconds=0&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=XL-Zhao-23&show_icons=true&cache_seconds=0&count_private=false" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XL-Zhao-23&layout=compact&langs_count=8&cache_seconds=0" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XL-Zhao-23&layout=compact&langs_count=8&cache_seconds=0&count_private=false" alt="Top Langs" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -22,5 +22,5 @@
 
 <!-- 连续打卡（streak） -->
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XL-Zhao-23&theme=default&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XL-Zhao-23&theme=default&count_private=false" alt="GitHub Stats" />
 </p>
