@@ -19,11 +19,8 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
-<!-- GitHub 总览（Anurag 的 stats） -->
-<p align="left">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=XL-Zhao-23&show_icons=true&count_private=true)
-</p>
+
 <!-- 连续打卡（streak） -->
 <p align="left">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=XL-Zhao-23&theme=default)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XL-Zhao-23&theme=default" alt="GitHub Stats" />
 </p>
