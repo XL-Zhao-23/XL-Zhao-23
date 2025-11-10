@@ -21,9 +21,9 @@
 </p>
 <!-- GitHub 总览（Anurag 的 stats） -->
 <p align="left">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=XL-Zhao-23&show_icons=true&count_private=true)
 </p>
 <!-- 连续打卡（streak） -->
 <p align="left">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=XL-Zhao-23&theme=default)
 </p>
