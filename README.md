@@ -5,8 +5,9 @@
 
 <!-- GitHub Stats -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=XL-Zhao-23&show_icons=true&cache_seconds=0" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=XL-Zhao-23&show_icons=true&cache_seconds=0" />
 </p>
+
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XL-Zhao-23&layout=compact&langs_count=8&cache_seconds=0&count_private=false" alt="Top Langs" />
