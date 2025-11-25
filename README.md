@@ -5,7 +5,7 @@
 
 <!-- GitHub Stats -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=XL-Zhao-23&show_icons=true&cache_seconds=0&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=XL-Zhao-23&show_icons=true&cache_seconds=0" alt="GitHub Stats" />
 </p>
 
 <p align="left">
