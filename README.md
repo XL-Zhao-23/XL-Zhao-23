@@ -5,7 +5,7 @@
 
 <!-- GitHub Stats -->
 <p align="left">
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=XL-Zhao-23&show_icons=true&count_private=false" />
+  <img https://github-readme-stats.vercel.app/api?username=XL-Zhao-23&show_icons=true />
 </p>
 
 
