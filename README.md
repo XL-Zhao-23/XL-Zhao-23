@@ -5,8 +5,12 @@
 
 <!-- GitHub Stats -->
 <p align="left">
-  <img https://github-readme-stats.vercel.app/api?username=XL-Zhao-23&show_icons=true />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=XL-Zhao-23&show_icons=true"
+    alt="GitHub Stats"
+  />
 </p>
+
 
 
 <p align="left">
